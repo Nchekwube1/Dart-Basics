@@ -14,14 +14,11 @@ void main() {
   // String lastName = "Unekwe";
   // print(firstName + " " + lastName);
 
-
   //Stdout and Stdin
-
 
   // stdout.writeln("What is your name?");
   // String userName = stdin.readLineSync() as String;
   // print('Welcome $userName');
-
 
   // Data types
 
@@ -30,4 +27,10 @@ void main() {
   // 3. Int
   // 4. Double
   // 5. Dynamic
+  // double checkNum = double.parse('1.2234');
+  // print(checkNum);
+
+// Type assertion
+
+// List<String> nameList= ["Jekwu", "Bisi"];
 }
